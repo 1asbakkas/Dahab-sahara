@@ -1,0 +1,22 @@
+# Environnement virtuel
+venv/
+env/
+*.venv
+
+# Python
+__pycache__/
+*.pyc
+
+# Base de données locale
+db.sqlite3
+
+# Fichiers médias uploadés (images des produits)
+media/
+
+# Fichiers secrets
+.env
+
+# Config éditeurs
+.vscode/
+.idea/
+.DS_Store
